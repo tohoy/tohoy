@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a PhD student at the Technical University of Denmark.
+I'm currently working on Selenium/Silicon tandem solar cells.
+
+- Location: Building 313, room 232
+- Email: tohoy@dtu.dk
+
