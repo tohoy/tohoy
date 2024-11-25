@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I am a PhD student at the Technical University of Denmark.
 I'm currently working on Selenium/Silicon tandem solar cells.
 
-- Location: Building 313, room 232
+- Location: Building 313, Room 232
 - Email: tohoy@dtu.dk
 
